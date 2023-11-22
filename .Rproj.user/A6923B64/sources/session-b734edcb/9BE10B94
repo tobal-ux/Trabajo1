@@ -3,7 +3,7 @@
     "path": "~/uch_correlacional_2023/plantilla_informe/plantilla_informe.qmd",
     "project_path": "plantilla_informe.qmd",
     "type": "quarto_markdown",
-    "hash": "3891302843",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1699325102408.0,
@@ -21,11 +21,11 @@
         "rmdVisualCollapsedChunks": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1699325484,
+    "lastKnownWriteTime": 1699361692,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699360516466,
+    "last_content_update": 1699361692,
     "read_only": false,
     "read_only_alternatives": []
 }

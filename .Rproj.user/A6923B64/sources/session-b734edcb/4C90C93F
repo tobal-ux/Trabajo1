@@ -3,7 +3,7 @@
     "path": "~/uch_correlacional_2023/plantilla_informe/procesamiento/01proc_data.R",
     "project_path": "procesamiento/01proc_data.R",
     "type": "r_source",
-    "hash": "4008731004",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1699325108563.0,
@@ -16,11 +16,11 @@
         "scrollLine": "21"
     },
     "folds": "",
-    "lastKnownWriteTime": 1699323856,
+    "lastKnownWriteTime": 1699361692,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699323856,
+    "last_content_update": 1699361692,
     "read_only": false,
     "read_only_alternatives": []
 }
