@@ -54,4 +54,4 @@ data <- data %>%
 
 
 # Guardar datos ----------------------------------------------------------------
-saveRDS(data, "output/data.Rdata")
+save(data,file="output/data.RData")

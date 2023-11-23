@@ -39,7 +39,7 @@ rm(list = ls()) # para limpiar el entorno de trabajo
 Esto lo podemos repetir para la carga de la base de datos y el procesamiento de los datos.
 
 ```{r datos, echo=FALSE, warning=FALSE, message=FALSE}
-data <- readRDS("output/data.RData")
+load(file="output/data.RData")
 ```
 
 A continuación, en nuestro ejemplo describiremos las variables necesarias para responder a nuestro objetivo.
