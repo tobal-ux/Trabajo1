@@ -1,8 +1,8 @@
 ---
 title: "Título del trabajo grupal"
-subtitle: "Estadística Correlacional 2023"
-author: "Equipo docente"
-date: "2023-11-07"
+subtitle: "R para el análisis de datos"
+author: "Kevin Carrasco"
+date: "2025-04-07"
 lang: es
 format: html
 editor: visual
@@ -10,14 +10,13 @@ editor: visual
 
 # Introducción
 
-Aqui ponemos la introducción, de acuerdo con la [pauta](https://correlacional.netlify.app/trabajos).
+Aqui ponemos la introducción, de acuerdo con las instrucciones.
 
 En este ejemplo daremos una mirada a la salud mental, y exploraremos posibles asociaciones con la edad, sexo y nivel educacional.
 
-
 # Variables
 
-Aqui ponemos las variables, de acuerdo con la [pauta](https://correlacional.netlify.app/trabajos).
+Aqui ponemos las variables, de acuerdo con las instrucciones.
 
 Podemos cargar las librerías sin que aparezca en nuestro informe, señalando la especificación al chunk `echo=FALSE`.
 
@@ -64,11 +63,9 @@ Y las variables del módulo de Salud y Bienestar, referentes a *Estado de ánimo
 -   Frecuencia: Enlentecimiento físico
 -   Frecuencia: Pensamiento de muerte o dañarse
 
-
 ```{r, echo=FALSE}
 include_graphics("https://www.desarrollosocialyfamilia.gob.cl/storage/image/banner-saludmental.png")
 ```
-
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 tab1 <- data %>%
@@ -145,6 +142,4 @@ Aqui redactamos algunas conclusiones, de acuerdo con la [pauta](https://correlac
 
 # Biliografía
 
--   COES (2023). *Radiografía del Cambio Social: Análisis de Resultados Longitudinales ELSOC 2016-2022. Presentación de Resultados COES*. Marzo, Santiago de Chile.
-
--   R Core Team (2023). *R: A Language and Environment for Statistical Computing*. R Foundation for Statistical Computing, Vienna, Austria. <https://www.R-project.org/>.
+Aquí debería aparecer automáticamente la bibliografía que agregamos con Zotero
